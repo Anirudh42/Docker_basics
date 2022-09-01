@@ -15,7 +15,7 @@
 
 #### Building the docker image
   - Make sure you are inside the folder ****Docker_basics**** which should have the ****Dockerfile****
-  - Run the command ```docker build -t "image_name" .
+  - Run the command ```docker build -t "image_name" .```
   - Wait for the image to be built
   - After this is complete run ```docker images``` and look for your image
 
