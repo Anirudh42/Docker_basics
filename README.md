@@ -3,7 +3,7 @@
 - This repository is meant to explain how to containerize a simple Flask Application using Docker
 
 ### Steps to run the code
-
+- To run it without using docker, make sure to install all the packages within the requirements.txt file and then type ```python app.py```, you should see the link to the server.
 #### Initial setup
 - You would first need to install docker from here https://www.docker.com/get-started
 - Clone this repository
